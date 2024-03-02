@@ -1,2 +1,2 @@
 # vessel-classification
-Deep Learning Project - Sapienza (AIRO) 2022/2023
+Deep Learning Project - Sapienza (AIRO) 2023/2024
